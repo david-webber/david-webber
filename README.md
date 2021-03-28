@@ -31,7 +31,7 @@
     ......................',,;'...........................................................................................................................
 
 ### Hi there, I'm [Dave](https://github.com/david-webber) 🤘
-I'm a full stack web developer from the South of England UK & this is where my personal projects come to die. 
+I'm a full stack web developer from the south of England, UK & this is where my personal projects come to die. 
 
 Here, have some tech icons to look at:
 ## Favourites 😍
