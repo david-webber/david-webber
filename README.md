@@ -9,7 +9,7 @@ Here, have some tech icons to look at:
 <img src="https://img.shields.io/badge/Strapi-333?logo=Strapi" alt="Strapi logo" title="Strapi" height="25" />&nbsp;<img src="https://img.shields.io/badge/Nuxt-333?logo=Nuxt.js" alt="Nuxt logo" title="Nuxt" height="25" />&nbsp;<img src="https://img.shields.io/badge/Digital%20Ocean-333?logo=DigitalOcean" alt="DigitalOcean logo" title="DigitalOcean" height="25" />
 
 ## Other tech I use 🛠 
-<img src="https://img.shields.io/badge/Cypress-333?logo=Cypress" alt="Cypress logo" title="Cypress" height="25" />&nbsp;<img src="https://img.shields.io/badge/PHP-333?logo=PHP" alt="PHP logo" title="PHP" height="25" />&nbsp;<img src="https://img.shields.io/badge/MySQL-333?logo=MySQL" alt="MySQL logo" title="MySQL" height="25" />&nbsp;<img src="https://img.shields.io/badge/BigCommerce-333?logo=BigCommerce" alt="BigCommerce logo" title="BigCommerce" height="25" />&nbsp;<img src="https://img.shields.io/badge/Git-333?logo=git" alt="git logo" title="git" height="25" />
+<img src="https://img.shields.io/badge/Cypress-333?logo=Cypress" alt="Cypress logo" title="Cypress" height="25" />&nbsp;<img src="https://img.shields.io/badge/PHP-333?logo=PHP" alt="PHP logo" title="PHP" height="25" />&nbsp;<img src="https://img.shields.io/badge/MySQL-333?logo=MySQL" alt="MySQL logo" title="MySQL" height="25" />&nbsp;<img src="https://img.shields.io/badge/Git-333?logo=git" alt="git logo" title="git" height="25" />
 
 ## Currently Experimenting / Learning 📕
 <img src="https://img.shields.io/badge/Unity-333?logo=Unity" alt="Unity logo" title="Unity" height="25" />&nbsp;<img src="https://img.shields.io/badge/Typescript-333?logo=Typescript" alt="Typescript logo" title="Typescript" height="25" /> 
